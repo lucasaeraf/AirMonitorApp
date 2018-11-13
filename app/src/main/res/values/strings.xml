@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AirMonitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="TEMPERATURE_STRING">TEMPERATURA: {0} ºC</string>
+    <string name="fire_notification_channel_name" translatable="false">Primary</string>
+    <string name="fire_notification_title" translatable="false">ALERTA DE FOGO!</string>
+    <string name="fire_notification_body" translatable="false">Alguma ação deve ser tomada. Provavelmente está ocorrendo um incêndio no quarto.</string>
+    <string name="detail_temperature_hint" translatable="false"></string>
+    <string name="detail_humidity_hint" translatable="false"></string>
+    <string name="detail_pm_hint" translatable="false"></string>
+    <string name="status_main_activity_gas" translatable="false">Não deixe seu bebê exposto a gases prejudiciais à saúde</string>
+    <string name="status_main_activity_fire" translatable="false">ALERTA DE FOGO!!!</string>
+    <string name="status_main_activity_ok" translatable="false">OK!</string>
+</resources>

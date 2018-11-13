@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AirMonitor</string>
+    <string name="action_settings">Configurações</string>
+    <string name="TEMPERATURE_STRING">TEMPERATURA: {0} ºC</string>
+</resources>
